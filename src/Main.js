@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './App';
 import data from "./data.json"
 import HornedBeast from './HornedBeast';
 function Main(props) {

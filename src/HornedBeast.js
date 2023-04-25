@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.js';
 import main from './Main'
 function HornedBeast(props) {
   return (
