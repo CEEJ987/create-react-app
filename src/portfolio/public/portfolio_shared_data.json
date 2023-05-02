@@ -1,0 +1,60 @@
+{
+    "basic_info": {
+      "name": "Carl Sanders",
+      "titles": [ "Software Developer" ],
+      "social": [
+        {
+          "name": "CEEJ987",
+          "url": "https://github.com/CEEJ987",
+          "class": "CodeCrew-Code School"
+        },
+        {
+          "name": "Carl Sanders",
+          "url": "https://www.linkedin.com/in/carl-sanders-4b368b249/",
+          "class": "Linkedin Class CodeCrew-Code School"
+        }
+      ],
+      "image": "https://media.licdn.com/dms/image/D5603AQHwwCdknDRlZA/profile-displayphoto-shrink_200_200/0/1678760481703?e=1687996800&v=beta&t=PaT-sVQKjlwqhE3cWCih9e7uRt1B8nkhdd29W6J3uMQ"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
