@@ -1,0 +1,111 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I am Carl Sanders, currently a student software developer at CodeCrew Collective. I was a former Airforce Veteran for 4 years stationed at Whiteman AFB. I'm currently learning the skills of computer science & software development to further my knowledge about computer programming. I am highly passionate about learning computer programming to redirect my career preference. Knowing that computers are the present and the future, I'm here to make a life changing future for myself. As well as, work to make a difference for you!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Salmon Cookies, Rock-Paper-Scissors, & chocolate-pizza",
+        "skills": "HTML, CSS, JavaScript, React, bootstrap",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/CEEJ987/CJ-s-Reading-Notes/tree/main/201/Class08",
+        "technologies": [
+          {
+            "class": "CodeCrew-CodeSchool",
+            "name": "Css"
+          },
+          {
+            "class": "CodeCrew-CodeSchool",
+            "name": "JavaScript"
+          },
+          {
+            "class": "CodeCrew-CodeSchool",
+            "name": "Html"
+          }
+        ]
+      },
+      {
+        "title": "HornedBeast",
+        "startDate": "2023",
+        "description": "Personal project for study subject. I was responsible for creating an application that optimizes images with popular algorithms. ",
+        "images": [
+          ""
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+         
+          "JavaScript",
+          "Bootstrap"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
