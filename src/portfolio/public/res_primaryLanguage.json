@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "Hi",
+      "description_header": "Hello",
       "description": "I am Carl Sanders, currently a student software developer at CodeCrew Collective. I was a former Airforce Veteran for 4 years stationed at Whiteman AFB. I'm currently learning the skills of computer science & software development to further my knowledge about computer programming. I am highly passionate about learning computer programming to redirect my career preference. Knowing that computers are the present and the future, I'm here to make a life changing future for myself. As well as, work to make a difference for you!",
       "section_name": {
         "about": "About me",
@@ -13,7 +13,7 @@
       {
         "title": "Salmon Cookies",
         "startDate": "2023",
-        "description": "",
+        "description": "This project was a demonstration of an cookie stand shop for selling salmon cookies.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -41,42 +41,19 @@
         "images": [
           ""
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/CEEJ987/create-react-app/tree/main/src",
         "technologies": [
           {
-            "class": "devicon-react-original",
+            "class": "CodeCrew-CodeSchool",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "CodeCrew-CodeSchool",
             "name": "JavaScript"
           }
         ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
       }
+      
     ],
     "experience": [
       {
